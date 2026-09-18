@@ -1,0 +1,6 @@
+{
+  "name": "Brain Rot Detox Machine",
+  "description": "An interactive 5-exhibit sensory decontamination chamber: breathe, touch grass, confess scroll sins, sit in silence, and leave one honest thought to drop your rot meter from 100% to 0%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
